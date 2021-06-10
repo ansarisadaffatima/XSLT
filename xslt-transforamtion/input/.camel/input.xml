@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<rentalProperties>
+	<property contact="1">
+		<type>House</type>
+		<price>420</price>
+		<address>
+			<streetNo>1</streetNo>
+			<street>Wavell Street</street>
+			<suburb>Box Hill</suburb>
+			<state>VIC</state>
+			<zipcode>3128</zipcode>
+		</address>
+		<numberOfBedrooms>3</numberOfBedrooms>
+		<numberOfBathrooms>1</numberOfBathrooms>
+		<garage>1</garage>
+	</property>
+	<property contact="2">
+		<type>Bunglow</type>
+		<price>1000</price>
+		<address>
+			<streetNo>2</streetNo>
+			<street>ABC Street</street>
+			<suburb>Box Hill</suburb>
+			<state>VIC</state>
+			<zipcode>3128</zipcode>
+		</address>
+		<numberOfBedrooms>6</numberOfBedrooms>
+		<numberOfBathrooms>3</numberOfBathrooms>
+		<garage>1</garage>
+	</property>
+</rentalProperties>
